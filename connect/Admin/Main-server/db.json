@@ -1,0 +1,1848 @@
+{
+  "signin": [
+    {
+      "email": "aspiresys@gmail.com",
+      "password": "Aspire@123",
+      "role": "admin",
+      "id": 0
+    },
+    {
+      "email": "aspire@gmail.com",
+      "password": "Aspire@123",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "email": "srini@gmail.com",
+      "password": "",
+      "role": "customer",
+      "firstname": "srinivasan.ravi  ",
+      "lastname": "ravichandran",
+      "phoneno": "7358802823",
+      "status": "Active",
+      "id": 2
+    },
+    {
+      "email": "Mukesh@gmail.com",
+      "password": "Mukesh@123",
+      "role": "customer",
+      "firstname": "srini",
+      "lastname": "ravi",
+      "phoneno": 8608662015,
+      "status": "Block",
+      "id": 3
+    },
+    {
+      "email": "yaal@gmail.com",
+      "password": "Yaal@123",
+      "role": "customer",
+      "firstname": "yaal",
+      "lastname": "arivan",
+      "phoneno": 8608662045,
+      "status": "Active",
+      "id": 4
+    },
+    {
+      "email": "srinivasanravichandran143@gmail.com",
+      "password": "Srini@123",
+      "role": "customer",
+      "firstname": "ravi",
+      "lastname": "srinivasan",
+      "phoneno": "6383003070",
+      "status": "Active",
+      "id": 5
+    },
+    {
+      "email": "srinivasanravichandran143@gmail.com",
+      "password": "Srini@123",
+      "role": "customer",
+      "firstname": "ravi",
+      "lastname": "srinivas",
+      "phoneno": "6383003070",
+      "status": "Active",
+      "id": 6
+    },
+    {
+      "firstname": "vijay",
+      "lastname": "kumar",
+      "email": "vijay@gmail.com",
+      "role": "customer",
+      "status": "Active",
+      "phoneno": "6383003070",
+      "gender": "male",
+      "date": "2015-12-11",
+      "password": "Vijay@123",
+      "id": 7
+    },
+    {
+      "firstname": "watchboy",
+      "lastname": "Amarnath",
+      "email": "amarnath@gmail.com",
+      "role": "customer",
+      "status": "Active",
+      "phoneno": "6383003070",
+      "gender": "male",
+      "date": "2000-10-11",
+      "password": "Watch@123",
+      "id": 8
+    },
+    {
+      "firstname": "jockey",
+      "lastname": "jon",
+      "email": "jockey@gmail.com",
+      "role": "customer",
+      "status": "Active",
+      "phoneno": "6383003070",
+      "gender": "Female",
+      "date": "2015-12-10",
+      "password": "Jockey@123",
+      "id": 9
+    },
+    {
+      "email": "jayanthi@gmail.com",
+      "password": "Jayanthi@123",
+      "role": "customer",
+      "firstname": "Jayanthi",
+      "lastname": "Ravi",
+      "phoneno": "6383003070",
+      "status": "Active",
+      "id": 10
+    },
+    {
+      "email": "sabari@gmail.com",
+      "password": "",
+      "role": "customer",
+      "firstname": "sabari",
+      "lastname": "nathan",
+      "phoneno": "876543456789",
+      "status": "Active",
+      "id": 11
+    }
+  ],
+  "category": [
+    {
+      "name": "option",
+      "id": 0
+    },
+    {
+      "name": "men",
+      "id": 1
+    },
+    {
+      "name": "women",
+      "id": 2
+    },
+    {
+      "name": "kids",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "category": "men",
+      "subcategory": "shirt",
+      "title": "men tapered fit",
+      "price": "400",
+      "brand": "Highloader",
+      "offer": 56,
+      "description": "the product is good",
+      "image": "https://m.media-amazon.com/images/I/61FR5laCRtL._UL1500_.jpg",
+      "id": 2
+    },
+    {
+      "id": 5,
+      "category": "men",
+      "subcategory": "shirt",
+      "title": "dollors",
+      "price": 400,
+      "brand": "killer",
+      "image": "https://m.media-amazon.com/images/I/51wpu-iyHQL._UL1000_.jpg",
+      "offer": 23,
+      "description": "the product is good"
+    },
+    {
+      "id": 6,
+      "category": "men",
+      "subcategory": "shirt",
+      "title": "sens",
+      "price": 230,
+      "brand": "killer",
+      "image": "https://m.media-amazon.com/images/I/61KNBTw4K8S._UX679_.jpg",
+      "offer": 10,
+      "description": "the product is good"
+    },
+    {
+      "category": "women",
+      "subcategory": "Tops",
+      "title": "Topwear",
+      "price": 2345,
+      "brand": "killer",
+      "offer": 10,
+      "description": "the product is good",
+      "image": "https://m.media-amazon.com/images/I/61nBrB7n90L._UL1500_.jpg",
+      "id": 7
+    },
+    {
+      "category": "women",
+      "subcategory": "kurta",
+      "title": "Dress",
+      "price": "34",
+      "brand": "Adi",
+      "offer": 10,
+      "description": "the product is good",
+      "image": "https://m.media-amazon.com/images/I/510VQpvgvgL.jpg",
+      "id": 8
+    },
+    {
+      "category": "women",
+      "subcategory": "kurta",
+      "title": "kurta",
+      "price": 2300,
+      "brand": "lee",
+      "offer": 50,
+      "description": "the product is good",
+      "image": "https://m.media-amazon.com/images/I/418ZDzdHjHL.jpg",
+      "id": 9
+    },
+    {
+      "category": "women",
+      "subcategory": "kurta",
+      "title": "shorts",
+      "price": 560,
+      "brand": "sky",
+      "offer": 70,
+      "description": "the product is good",
+      "image": "https://m.media-amazon.com/images/I/41LhUNLPU7L.jpg",
+      "id": 10
+    },
+    {
+      "category": "women",
+      "subcategory": "kurta",
+      "title": "kurta",
+      "price": 4567,
+      "brand": "Lee",
+      "offer": 34,
+      "description": "the product is good",
+      "image": "https://m.media-amazon.com/images/I/41NAGYDzXdL.jpg",
+      "id": 11
+    },
+    {
+      "category": "women",
+      "subcategory": "kurta",
+      "title": "kutasv & Kurtis",
+      "price": 5478,
+      "brand": "Sky",
+      "offer": 43,
+      "description": "the product is good",
+      "image": "https://m.media-amazon.com/images/I/614ZP7plXDL._UL1200_.jpg",
+      "id": 12
+    },
+    {
+      "category": "women",
+      "subcategory": "Tops",
+      "title": "Duppttus",
+      "price": 5900,
+      "brand": "blue sky",
+      "offer": 10,
+      "description": "the product is good",
+      "image": "https://m.media-amazon.com/images/I/518ZoCqZNJL._UL1500_.jpg",
+      "id": 13
+    },
+    {
+      "category": "kids",
+      "subcategory": "Kurta",
+      "title": "Kurta",
+      "price": 340,
+      "brand": "killer",
+      "offer": 70,
+      "description": "the product is good",
+      "image": "https://m.media-amazon.com/images/I/71Jr+YexqOL._UL1500_.jpg",
+      "id": 14
+    },
+    {
+      "category": "kids",
+      "subcategory": "Kurta",
+      "title": "Ethnic wear",
+      "price": 765,
+      "brand": "Adi",
+      "offer": 76,
+      "description": "the product is good",
+      "image": "https://m.media-amazon.com/images/I/41nSct1-zuL._SY445_SX342_.jpg",
+      "id": 15
+    },
+    {
+      "category": "kids",
+      "subcategory": "Kurta",
+      "title": "inner wear",
+      "price": 250,
+      "brand": "lee",
+      "offer": 10,
+      "description": "the product is good",
+      "image": "https://m.media-amazon.com/images/I/71GSEIz-VbL._UY741_.jpg",
+      "id": 16
+    },
+    {
+      "category": "kids",
+      "subcategory": "Kurta",
+      "title": "inner wear",
+      "price": 560,
+      "brand": "blue sky",
+      "offer": 34,
+      "description": "the product is good",
+      "image": "https://m.media-amazon.com/images/I/71vV56cBDvL._UL1500_.jpg",
+      "id": 17
+    },
+    {
+      "category": "kids",
+      "subcategory": "Gown",
+      "title": "Dress & Grown",
+      "price": 590,
+      "brand": "lee",
+      "offer": 34,
+      "description": "the product is good",
+      "image": "https://m.media-amazon.com/images/I/41tf5GOyPaL.jpg",
+      "id": 20
+    },
+    {
+      "category": "men",
+      "subcategory": "shirt",
+      "title": "Casual Shirt",
+      "price": "5500",
+      "brand": "Era",
+      "image": "https://m.media-amazon.com/images/I/51iAjvVnXVL._UL1100_.jpg",
+      "offer": "30",
+      "description": "Stylish Plain Full sleeve Cotton Casual Shirt\n",
+      "id": 22
+    },
+    {
+      "category": "men",
+      "subcategory": "shirt",
+      "title": "Casual Shirt",
+      "price": "3000",
+      "brand": "Dennis",
+      "offer": "34",
+      "description": "Please note that orders which exceed the quantity limit will be auto-canceled. This is applicable across sellers.",
+      "image": "https://m.media-amazon.com/images/I/61DGAlvxRLL._UL1440_.jpg",
+      "id": 23
+    },
+    {
+      "category": "men",
+      "subcategory": "shirt",
+      "title": "formal shirt",
+      "price": "3450",
+      "brand": "dennis",
+      "image": "https://m.media-amazon.com/images/I/61So7xHKi2L._UL1440_.jpg",
+      "offer": "34",
+      "description": "The product is good",
+      "id": 24
+    },
+    {
+      "category": "men",
+      "subcategory": "shirt",
+      "title": "Casual Shirt ",
+      "price": "4566",
+      "brand": "dennis",
+      "image": "https://m.media-amazon.com/images/I/61ngzz8uI8L._UL1440_.jpg",
+      "offer": "3",
+      "description": "abric - 100% Linen Fabric, Pre-Washed for extremely soft finish and Guaranteed 0% Shrinkage Post Washing",
+      "id": 25
+    },
+    {
+      "category": "men",
+      "subcategory": "shirt",
+      "title": "fit Men's",
+      "price": "6700",
+      "brand": "Lingo ",
+      "image": "https://m.media-amazon.com/images/I/61cyPIdeY9L._SX679._SX._UX._SY._UY_.jpg",
+      "offer": "3",
+      "description": "Style - Enhance your look by wearing this Casual Stylish Men's shirt, Team it with a pair of tapered denims Or Solid Chinos and Loafers for a fun Smart Casual look",
+      "id": 26
+    },
+    {
+      "category": "men",
+      "subcategory": "shirt",
+      "title": "Cotton shirt",
+      "price": "2300",
+      "brand": "Lion",
+      "image": "https://m.media-amazon.com/images/I/71SxGCPGdsL._UL1440_.jpg",
+      "offer": "1",
+      "description": "100% Premium Cottton, Pre Washed for an extremely soft finish and Rich look\nStylish Printed Casual Shirt\nModern Slim Fit ( We have Updated our size chart, please Refer the size chart for new measurements before ordering)",
+      "id": 27
+    },
+    {
+      "category": "men",
+      "subcategory": "shirt",
+      "title": "Full Sleeves",
+      "price": "3450",
+      "brand": "Era",
+      "image": "https://m.media-amazon.com/images/I/61cbX4AxewL._UL1500_.jpg",
+      "offer": "34",
+      "description": "Dennis Lingo Men's Ombre Slim Fit Cotton Casual Shirt with Mandarin Collar & Full Sleeves",
+      "id": 28
+    },
+    {
+      "category": "men",
+      "subcategory": "pant",
+      "title": "ENDEAVOUR WEAR",
+      "price": "3455",
+      "brand": "eRA",
+      "image": "https://m.media-amazon.com/images/I/51o9ba9fqML._UL1500_.jpg",
+      "offer": "32",
+      "description": "ENDEAVOUR WEAR Mens Regular Fit Trackpants",
+      "id": 33
+    },
+    {
+      "category": "men",
+      "subcategory": "pant",
+      "title": "Athleisure Men",
+      "price": "500",
+      "brand": "BlueSky",
+      "image": "https://m.media-amazon.com/images/I/71vTCFrSkfL._UL1500_.jpg",
+      "offer": "3",
+      "description": "Van Heusen Athleisure Men Regular Fit Joggers  Cotton  ",
+      "id": 34
+    },
+    {
+      "category": "men",
+      "subcategory": "pant",
+      "title": "Men Slim ",
+      "price": "500",
+      "brand": "Amazon",
+      "image": "https://m.media-amazon.com/images/I/61e0ta9X9zL._UL1500_.jpg",
+      "offer": "0",
+      "description": "Amazon Brand - Symbol Men's Slim Fit Formal Trousers",
+      "id": 35
+    },
+    {
+      "category": "men",
+      "subcategory": "pant",
+      "title": "Formal pant",
+      "price": "20",
+      "brand": "Amazon",
+      "image": "https://m.media-amazon.com/images/I/71+4btOe3bL._UL1500_.jpg",
+      "offer": "20",
+      "description": "Amazon Brand - Symbol Men's Slim Fit Formal Trousers\n",
+      "id": 36
+    },
+    {
+      "category": "men",
+      "subcategory": "pant",
+      "title": "Pencil Fit",
+      "price": "750",
+      "brand": "Era",
+      "image": "https://m.media-amazon.com/images/I/61asRSilHlL._UL1500_.jpg",
+      "offer": "0",
+      "description": "Button closure with zip fly\nComfortable everyday chinos\nPair with solid polo or casual shirts and sneakers for a stylish casual look.Refer to size chart to pick your correct size.",
+      "id": 37
+    },
+    {
+      "category": "men",
+      "subcategory": "pant",
+      "title": "Color pant",
+      "price": "300",
+      "brand": "Blue Sky",
+      "image": "https://m.media-amazon.com/images/I/71jR5mlgSbL._UL1500_.jpg",
+      "offer": "0",
+      "description": "Amazon Brand - Symbol Men's Straight Casual Trousers",
+      "id": 38
+    },
+    {
+      "category": "men",
+      "subcategory": "pant",
+      "title": "Jockey Men",
+      "price": "4500",
+      "brand": "jockey",
+      "image": "https://m.media-amazon.com/images/I/71ibMv3y6nL._UL1500_.jpg",
+      "offer": "0",
+      "description": "Jockey Men's Slim Track Pant",
+      "id": 39
+    },
+    {
+      "category": "men",
+      "subcategory": "Tshirt",
+      "title": "Polo shirt",
+      "price": "300",
+      "brand": "LifeStyle",
+      "image": "https://m.media-amazon.com/images/I/71V4RsIUADL._UL1500_.jpg",
+      "offer": "20",
+      "description": "Van Heusen Men's Regular Fit Polo Shirt",
+      "id": 40
+    },
+    {
+      "category": "men",
+      "subcategory": "Tshirt",
+      "title": "Cotton TShirt",
+      "price": "300",
+      "brand": "Red",
+      "image": "https://m.media-amazon.com/images/I/51BME9MSQkL._UL1100_.jpg",
+      "offer": "20",
+      "description": "U.S. POLO ASSN. Men's Regular fit T-Shirt",
+      "id": 41
+    },
+    {
+      "category": "men",
+      "subcategory": "Tshirt",
+      "title": "Polo Tshirt",
+      "price": "300",
+      "brand": "Polo",
+      "image": "https://m.media-amazon.com/images/I/51SBzfFQTuL._UL1000_.jpg",
+      "offer": "10",
+      "description": "Care Instructions: Machine Wash\nFabric Composition : 100% Cotton\nPremium Super combed cotton jersey fabric is soft & comfortable for all day wear due to its good absorbency & breathability\nHalf Sleeves\nAuthentic USPA logo contrast EmbroideryTagless label at the inside back of the garment for all day comfortCan be worn as Loun",
+      "id": 42
+    },
+    {
+      "category": "men",
+      "subcategory": "Tshirt",
+      "title": "Fit Tshirt",
+      "price": "2000",
+      "brand": "Adi",
+      "image": "https://m.media-amazon.com/images/I/51aqOkAzaPL._UL1100_.jpg",
+      "offer": "30",
+      "description": "Care Instructions: Machine Wash\nFit Type: Regular Fit\nCotton Full Sleeve Crew Neck Tshirt with logo embroidery in contrast. Neck finishing with spandex rib for better fit & comfortWeave type: Knit",
+      "id": 43
+    },
+    {
+      "category": "men",
+      "subcategory": "jean",
+      "title": "Black jean",
+      "price": "2000",
+      "brand": "Eagle",
+      "image": "https://m.media-amazon.com/images/I/61mlCb4IDcL._UL1500_.jpg",
+      "offer": "0",
+      "description": "Urbano Fashion Men's Slim Fit Black Stretch Jeans",
+      "id": 44
+    },
+    {
+      "category": "men",
+      "subcategory": "jean",
+      "title": "Pencil Fit Jeans",
+      "price": "3000",
+      "brand": "Eagle",
+      "image": "https://m.media-amazon.com/images/I/711G7qxQSNL._UL1500_.jpg",
+      "offer": "0",
+      "description": "Care Instructions: Machine Wash\nFit Type: Slim\nSlim fit - Slightly fitted through the hip and thigh, narrows from knee to ankle\nMaterial - 98% Cotton & 2% Elastane; Stretchable Jeans\nZip fly with button closure\nBasic 5 Pocket Jeans for Men; Scoop Pocket",
+      "id": 45
+    },
+    {
+      "category": "men",
+      "subcategory": "jean",
+      "title": "Slim Fit Jean",
+      "price": "400",
+      "brand": "Spykar",
+      "image": "https://m.media-amazon.com/images/I/A1I14Y59FoL._UL1500_.jpg",
+      "offer": "0",
+      "description": "The maximum order quantity for this product is limited to 5 units per customer",
+      "id": 46
+    },
+    {
+      "category": "men",
+      "subcategory": "jean",
+      "title": "Studio jean",
+      "price": "2000",
+      "brand": "STUDIO NEXX",
+      "image": "https://m.media-amazon.com/images/I/91S8QMHZCtL._UL1500_.jpg",
+      "offer": "10",
+      "description": "Care Instructions: Machine Wash\n100% Cotton; Arvind mill fabric\nMid Rise Non Stretch Jeans; Slim fit denim\nFaded wash\nBecome an iconic figure of fashion world wearing this jeans by Studio Nexx Machine Wash with like colors, Do Not Bleach, use mild detergent. Made in India",
+      "id": 47
+    },
+    {
+      "category": "men",
+      "subcategory": "jean",
+      "title": "Lee jean",
+      "price": "3000",
+      "brand": "Lee",
+      "image": "https://m.media-amazon.com/images/I/71gWaXU8qXL._UY879_.jpg",
+      "offer": "20",
+      "description": "STUDIO NEXX Men's Regular Fit Jeans\n ",
+      "id": 48
+    },
+    {
+      "category": "men",
+      "subcategory": "jean",
+      "title": "Studio Jean",
+      "price": "2000",
+      "brand": "STUDIO NEXX",
+      "image": "https://m.media-amazon.com/images/I/61XuJ5Omc5L._UX679_.jpg",
+      "offer": "10",
+      "description": "STUDIO NEXX Men's Regular Fit Jeans",
+      "id": 49
+    },
+    {
+      "category": "men",
+      "subcategory": "jean",
+      "title": "Grey jean",
+      "price": "2000",
+      "brand": "Plus",
+      "image": "https://m.media-amazon.com/images/I/61tWq7h7+IS._UX679_.jpg",
+      "offer": "30",
+      "description": "Urbano Plus Men's Light Grey Regular Fit Solid Jeans Stretchable",
+      "id": 50
+    },
+    {
+      "category": "men",
+      "subcategory": "jacket",
+      "title": "Winter jacket",
+      "price": "2000",
+      "brand": "cool",
+      "image": "https://m.media-amazon.com/images/I/610ysTt7-3L._UX679_.jpg",
+      "offer": "20",
+      "description": "Campus Sutra Men’s Cotton Jacket Regular Fit For Casual Wear | Full Sleeve |Cotton Jacket Crafted With Comfort Fit",
+      "id": 51
+    },
+    {
+      "category": "men",
+      "subcategory": "jacket",
+      "title": "Black jacket",
+      "price": "2000",
+      "brand": "Eagle",
+      "image": "https://m.media-amazon.com/images/I/619yATaG-5L._UL1500_.jpg",
+      "offer": "10",
+      "description": "Allen Solly Men's Jacket",
+      "id": 52
+    },
+    {
+      "category": "men",
+      "subcategory": "jacket",
+      "title": "Casual Jacket",
+      "price": "3000",
+      "brand": "Martin",
+      "image": "https://m.media-amazon.com/images/I/61eMJalktNL._UY879_.jpg",
+      "offer": "10",
+      "description": "Ben Martin Men's Full Sleeve Stand Collar Casual Jacket",
+      "id": 53
+    },
+    {
+      "category": "men",
+      "subcategory": "jacket",
+      "title": " Mens Jacket",
+      "price": "3000",
+      "brand": "Cazibe",
+      "image": "https://m.media-amazon.com/images/I/81zIhTEiK9L._UY879_.jpg",
+      "offer": "20",
+      "description": "Cazibe Men's Jacket",
+      "id": 54
+    },
+    {
+      "category": "men",
+      "subcategory": "jacket",
+      "title": "wings jacket",
+      "price": "2000",
+      "brand": "Red Wings",
+      "offer": "20",
+      "description": "Care Instructions: Hand Wash Only\nFit Type: Regular\nColor name: Black\nMaterial: Nylon\nPattern: Solid\nLong Sleeve\nHand Wash",
+      "image": "https://m.media-amazon.com/images/I/71uvF4EsGnL._UY879_.jpg",
+      "id": 55
+    },
+    {
+      "category": "men",
+      "subcategory": "sweatshirt",
+      "title": "Amazon Brand ",
+      "price": "2000",
+      "brand": "Polo",
+      "image": "https://m.media-amazon.com/images/I/71ev+EhqeHL._UY879_.jpg",
+      "offer": "50",
+      "description": "Amazon Brand - Symbol Men Sweatshirt",
+      "id": 56
+    },
+    {
+      "category": "men",
+      "subcategory": "sweatshirt",
+      "title": "Fit Sweatshirt",
+      "price": "2000",
+      "brand": "sweatshirt",
+      "image": "https://m.media-amazon.com/images/I/8148ZBbX-oL._SY879._SX._UX._SY._UY_.jpg",
+      "offer": "10",
+      "description": "Amazon Brand - Symbol Men Sweatshirt",
+      "id": 57
+    },
+    {
+      "category": "men",
+      "subcategory": "sweatshirt",
+      "title": "Loopknit shirt",
+      "price": "2000",
+      "brand": "Leotude",
+      "image": "https://m.media-amazon.com/images/I/61qAuRCAs5L._UY879_.jpg",
+      "offer": "20",
+      "description": "LEOTUDE Regular Fit Loopknit Men's Sweatshirt Combo",
+      "id": 58
+    },
+    {
+      "category": "men",
+      "subcategory": "track",
+      "title": "Fit Trackpants",
+      "price": "200",
+      "brand": "Black",
+      "image": "https://m.media-amazon.com/images/I/51o-SBNPLUS._UX679_.jpg",
+      "offer": "0",
+      "description": "ENDEAVOUR WEAR Men's Regular Fit Trackpants",
+      "id": 59
+    },
+    {
+      "category": "men",
+      "subcategory": "track",
+      "title": "Track Pant ",
+      "price": "2000",
+      "brand": "Avolt",
+      "image": "https://m.media-amazon.com/images/I/61j9rQx4SiL._UL1500_.jpg",
+      "offer": "20",
+      "description": "AVOLT Dry Fit Track Pant for Men I Slim Fit Athleisure Running Gym Stretchable Track Pant",
+      "id": 60
+    },
+    {
+      "category": "men",
+      "subcategory": "track",
+      "title": "Track Pant",
+      "price": "2000",
+      "brand": "RA",
+      "image": "https://m.media-amazon.com/images/I/619LBNjvryL._SY879._SX._UX._SY._UY_.jpg",
+      "offer": "20",
+      "description": "AVOLT Dry Fit Track Pant for Men I Slim Fit Athleisure Running Gym Stretchable Track Pant\n",
+      "id": 61
+    },
+    {
+      "category": "men",
+      "subcategory": "vest",
+      "title": "Jockey Vest",
+      "price": "300",
+      "brand": "Jockey",
+      "image": "https://m.media-amazon.com/images/I/71d5ku2Ie-L._UL1500_.jpg",
+      "offer": "20",
+      "description": "Jockey FP04 Men's Super Combed Cotton Rib Round Neck Sleeveless Vest with Extended Length for Easy Tuck",
+      "id": 62
+    },
+    {
+      "category": "men",
+      "subcategory": "vest",
+      "title": "Grey vest",
+      "price": "100",
+      "brand": "Jockey",
+      "offer": "10",
+      "description": "Jockey FP04 Men's Super Combed Cotton Rib Round Neck Sleeveless Vest with Extended Length for Easy Tuck",
+      "image": "https://m.media-amazon.com/images/I/81IjaM7JS2L._UY879_.jpg",
+      "id": 63
+    },
+    {
+      "category": "men",
+      "subcategory": "Udi",
+      "title": "Fit Udi",
+      "price": "2000",
+      "brand": "Amazon ",
+      "image": "https://m.media-amazon.com/images/I/71Iqk63x7NL._UX679_.jpg",
+      "offer": "20",
+      "description": "FASHION AND YOUTH Stylish Unisex Naruto Kakashi 2 Anime Design Printed Hooded Hoodies | Pullover Sweatshirts for Men & Women",
+      "id": 64
+    },
+    {
+      "category": "men",
+      "subcategory": "Udi",
+      "title": "Cotton Udi",
+      "price": "2000",
+      "brand": "JUGULAR Mens",
+      "image": "https://m.media-amazon.com/images/I/61S7cx84D-L._UY879_.jpg",
+      "offer": "20",
+      "description": "JUGULAR Men's Cotton Hooded Sweatshirt",
+      "id": 65
+    },
+    {
+      "category": "men",
+      "subcategory": "Udi",
+      "title": "Sweat Udi",
+      "price": "2000",
+      "brand": "BlueSky",
+      "image": "https://m.media-amazon.com/images/I/41uEogkuOvL.jpg",
+      "offer": "20",
+      "description": "TeesTheDay Unisex-Adult Cotton Hooded Neck Hoodie",
+      "id": 66
+    },
+    {
+      "category": "women",
+      "subcategory": "kurta",
+      "title": "Maroon Kurta",
+      "price": "2000",
+      "brand": "Colours",
+      "image": "https://m.media-amazon.com/images/I/81271aov+AL._UL1500_.jpg",
+      "offer": "20",
+      "description": "Women's Maroon Poly Crepe Straight Kurta with Pant ",
+      "id": 67
+    },
+    {
+      "category": "women",
+      "subcategory": "kurta",
+      "title": "Embroidered",
+      "price": "2000",
+      "brand": "Era",
+      "offer": "20",
+      "description": "RAJMANDIRFABRICS\nWomen's Cotton Embroidered Straight Kurta Pant Set",
+      "image": "https://m.media-amazon.com/images/I/71N2wOEADmL._UL1500_.jpg",
+      "id": 68
+    },
+    {
+      "category": "women",
+      "subcategory": "kurta",
+      "title": "Straight Kurta",
+      "price": "2000",
+      "brand": "Era",
+      "image": "https://m.media-amazon.com/images/I/8189rRqIy5L._UL1500_.jpg",
+      "offer": "10",
+      "description": "Women's Cotton Embroidered Straight Kurta Pant Set",
+      "id": 69
+    },
+    {
+      "category": "women",
+      "subcategory": "kurta",
+      "title": "Cotton kurta",
+      "price": "2000",
+      "brand": "Adi",
+      "image": "https://m.media-amazon.com/images/I/81u5iPNuFVL._UL1500_.jpg",
+      "offer": "20",
+      "description": "RAJMANDIRFABRICS Women's Floral Printed & Gota Lace Anarkali Cotton Kurta Pant with Dupatta Set",
+      "id": 70
+    },
+    {
+      "category": "women",
+      "subcategory": "kurta",
+      "title": "Gota Kurta",
+      "price": "2000",
+      "brand": "Adi",
+      "image": "https://m.media-amazon.com/images/I/81Xn254WPVL._UL1500_.jpg",
+      "offer": "10",
+      "description": "RAJMANDIRFABRICS Women's Floral Printed & Gota Lace Anarkali Cotton Kurta Pant with Dupatta Set",
+      "id": 71
+    },
+    {
+      "category": "women",
+      "subcategory": "kurta",
+      "title": "Salwar Suit",
+      "price": "1000",
+      "brand": "Biba",
+      "image": "https://m.media-amazon.com/images/I/81TVzyxd1NL._UL1500_.jpg",
+      "offer": "20",
+      "description": "BIBA Women's Modal a line Salwar Suit Set",
+      "id": 72
+    },
+    {
+      "category": "women",
+      "subcategory": "kurta",
+      "title": "Maroon Kurta",
+      "price": "2000",
+      "brand": "Era",
+      "image": "https://m.media-amazon.com/images/I/61ImM-06ASL._UL1500_.jpg",
+      "offer": "10",
+      "description": "Women's Maroon Poly Crepe Straight Kurta with Pant",
+      "id": 73
+    },
+    {
+      "category": "women",
+      "subcategory": "kurta",
+      "title": "Solid Kurta",
+      "price": "4000",
+      "brand": "Adi",
+      "offer": "10",
+      "description": "ANNI DESIGNER Women's Cotton Blend Straight Solid Kurta with Pant & Dupatta (Resoti)",
+      "image": "https://m.media-amazon.com/images/I/71G9+xIQRAL._UL1500_.jpg",
+      "id": 74
+    },
+    {
+      "category": "women",
+      "subcategory": "saree",
+      "title": "Cotton Saree ",
+      "price": "1000",
+      "brand": "Colour",
+      "image": "https://m.media-amazon.com/images/I/41fvi+MAnGL.jpg",
+      "offer": "10",
+      "description": "JALTHER Handicrafts Women's Ikat Hand Block Print Jaipuri Cotton Mulmul Saree with Blouse Piece",
+      "id": 75
+    },
+    {
+      "category": "women",
+      "subcategory": "saree",
+      "title": "Banarasi Silk",
+      "price": "20000",
+      "brand": "Banarasi",
+      "image": "https://m.media-amazon.com/images/I/51NbjvDXdZL._UL1000_.jpg",
+      "offer": "10",
+      "description": "C J Enterprise Women's Banarasi Silk Saree Kanjivaram Style Pure Silk Sarees With Blouse Piece (paithani Zigzag)",
+      "id": 76
+    },
+    {
+      "category": "women",
+      "subcategory": "saree",
+      "title": "Kanjivaram silk",
+      "price": "40000",
+      "brand": "kanjivaram",
+      "image": "https://m.media-amazon.com/images/I/51B6tttOe6L._UL1000_.jpg",
+      "offer": "10",
+      "description": "C J Enterprise Women's Banarasi Silk Saree Kanjivaram Style Pure Silk Sarees With Blouse Piece (paithani Zigzag)",
+      "id": 77
+    },
+    {
+      "category": "women",
+      "subcategory": "saree",
+      "title": "Lite Silk",
+      "price": "1050",
+      "brand": "Vaidehi ",
+      "image": "https://m.media-amazon.com/images/I/817Q+cAPjRL._UL1500_.jpg",
+      "offer": "10",
+      "description": "Vaidehi Fashion Women's Art Silk Heavy Embroidery Work Saree",
+      "id": 78
+    },
+    {
+      "category": "women",
+      "subcategory": "saree",
+      "title": "Linen Saree ",
+      "price": "3000",
+      "brand": "AKHILAM",
+      "image": "https://m.media-amazon.com/images/I/713ghPmYoKL._UL1500_.jpg",
+      "offer": "20",
+      "description": "AKHILAM Women's Woven Design Geometric Linen Saree With Unstitched Blouse Piece(FF0LNJCQ03L_Parent)",
+      "id": 79
+    },
+    {
+      "category": "women",
+      "subcategory": "saree",
+      "title": "Kanchipuram saree",
+      "price": "4000",
+      "brand": "Vardha",
+      "image": "https://m.media-amazon.com/images/I/91Q+A6-+hvL._UL1500_.jpg",
+      "offer": "29",
+      "description": "Vardha Women's Kanchipuram Raw Silk Saree with Unstitched Blouse Piece - Zari Woven Work Sarees for Wedding",
+      "id": 80
+    },
+    {
+      "category": "women",
+      "subcategory": "saree",
+      "title": "Jaipur cotton ",
+      "price": "2300",
+      "brand": "Jaipuri",
+      "image": "https://m.media-amazon.com/images/I/41sojLd6EjL.jpg",
+      "offer": "40",
+      "description": "Jalther Handicrafts Women's Ikat Hand Block Print Jaipuri Cotton Mulmul Saree with Blouse Piece",
+      "id": 81
+    },
+    {
+      "category": "women",
+      "subcategory": "saree",
+      "title": "Pallu saree",
+      "price": "4300",
+      "brand": "Varkala Silk",
+      "image": "https://m.media-amazon.com/images/I/9127dE8RlIL._UL1500_.jpg",
+      "offer": "10",
+      "description": "Varkala Silk Sarees\nWomen's Paithani Soft Silk double Pallu Saree With Blouse Piece",
+      "id": 82
+    },
+    {
+      "category": "women",
+      "subcategory": "WomenJean",
+      "title": "Women Jeans",
+      "price": "1000",
+      "brand": "Era",
+      "offer": "10",
+      "description": "Amazon Brand - Symbol\nWomen Jeans\n",
+      "image": "https://m.media-amazon.com/images/I/818PqXqAq9L._UL1500_.jpg",
+      "id": 83
+    },
+    {
+      "category": "women",
+      "subcategory": "WomenJean",
+      "title": "Denim Jean",
+      "price": "2000",
+      "brand": "Amazon",
+      "image": "https://m.media-amazon.com/images/I/81D+plwy45L._UL1500_.jpg",
+      "offer": "20",
+      "description": "Amazon Brand - Inkast Denim Co. Women's Skinny Jeans",
+      "id": 84
+    },
+    {
+      "category": "women",
+      "subcategory": "WomenJean",
+      "title": "Blue jean",
+      "price": "2000",
+      "brand": "Blue Sky",
+      "image": "https://m.media-amazon.com/images/I/81Vl8nxoJIL._UL1500_.jpg",
+      "offer": "10",
+      "description": "Dolce Crudo\nWomen's Blue Skinny High Rise Cropped Stretchable Denim Jeans\n",
+      "id": 85
+    },
+    {
+      "category": "women",
+      "subcategory": "WomenJean",
+      "title": "Cotton Jean",
+      "price": "1500",
+      "brand": "Nifty",
+      "image": "https://m.media-amazon.com/images/I/61e5EIR-LhL._AC_UL480_FMwebp_QL65_.jpg",
+      "offer": "10",
+      "description": "Nifty\nWomen's Slim Fit Cotton Jeans",
+      "id": 86
+    },
+    {
+      "category": "women",
+      "subcategory": "WomenJean",
+      "title": "Symbol Jean",
+      "price": "1200",
+      "brand": "Amazon Brand",
+      "image": "https://m.media-amazon.com/images/I/818PqXqAq9L._UL1500_.jpg",
+      "offer": "10",
+      "description": "Amazon Brand - Symbol Women Jeans",
+      "id": 87
+    },
+    {
+      "category": "women",
+      "subcategory": "WomenJean",
+      "title": "Regular Jeans",
+      "price": "2000",
+      "brand": "AKA",
+      "image": "https://m.media-amazon.com/images/I/71EoojSl3CL._UL1500_.jpg",
+      "offer": "20",
+      "description": "AKA CHIC Women's Regular Jeans",
+      "id": 88
+    },
+    {
+      "category": "women",
+      "subcategory": "WomenJean",
+      "title": "Relaxed Jeans",
+      "price": "3000",
+      "brand": "Aka CHIC",
+      "image": "https://m.media-amazon.com/images/I/71+dc-ec+9L._UL1500_.jpg",
+      "offer": "20",
+      "description": "AKA CHIC Women's Relaxed Jeans",
+      "id": 89
+    },
+    {
+      "category": "women",
+      "subcategory": "WomenSweater",
+      "title": "Winter Sweater",
+      "price": "3000",
+      "brand": "eKool",
+      "image": "https://m.media-amazon.com/images/I/71Rax+PIjxL._UL1440_.jpg",
+      "offer": "30",
+      "description": "eKools Women's Winterwear Woolen Self Cardigans Sweaters",
+      "id": 90
+    },
+    {
+      "category": "women",
+      "subcategory": "WomenSweater",
+      "title": " Winterwear",
+      "price": "4000",
+      "brand": "Era",
+      "image": "https://m.media-amazon.com/images/I/71PdbBPN7oL._UL1440_.jpg",
+      "offer": "10",
+      "description": "eKools Women's Winterwear Woolen Self Cardigans Sweaters",
+      "id": 91
+    },
+    {
+      "category": "women",
+      "subcategory": "WomenSweater",
+      "title": "SweaterCoat ",
+      "price": "4500",
+      "brand": "Aol",
+      "image": "https://m.media-amazon.com/images/I/51u4pdgcXiL._UL1500_.jpg",
+      "offer": "20",
+      "description": "AOL Women's Double Breasted Knee Length Coat",
+      "id": 92
+    },
+    {
+      "category": "women",
+      "subcategory": "WomenSweater",
+      "title": "Treanch Sweater",
+      "price": "3000",
+      "brand": "Aol",
+      "image": "https://m.media-amazon.com/images/I/61A0qghL0bL._UY879_.jpg",
+      "offer": "10",
+      "description": "AOL Women's Solid Thigh Length Trench Coat",
+      "id": 93
+    },
+    {
+      "category": "women",
+      "subcategory": "Tops",
+      "title": "ShouderTop",
+      "price": "3000",
+      "brand": "Era",
+      "image": "https://m.media-amazon.com/images/I/71xySNim2pL._UL1500_.jpg",
+      "offer": "10",
+      "description": "Women Cold Shoulder Top",
+      "id": 94
+    },
+    {
+      "category": "women",
+      "subcategory": "Tops",
+      "title": "Foral Top",
+      "price": "300",
+      "brand": "Adi",
+      "image": "https://m.media-amazon.com/images/I/81vXyuKsLfL._UL1500_.jpg",
+      "offer": "10",
+      "description": "Wedani Women's Casual Puff Sleeves Ruffled Collor Foral Top",
+      "id": 95
+    },
+    {
+      "category": "women",
+      "subcategory": "Tops",
+      "title": "Regular Tops",
+      "price": "280",
+      "brand": "KBZ",
+      "image": "https://m.media-amazon.com/images/I/71dX6gWxQVL._UL1440_.jpg",
+      "offer": "10",
+      "description": "KBZ Womens Cotton Printed Regular Top",
+      "id": 96
+    },
+    {
+      "category": "women",
+      "subcategory": "Tops",
+      "title": "Printed Top",
+      "price": "350",
+      "brand": "Jwalin",
+      "image": "https://m.media-amazon.com/images/I/91oJf+C617L._UY879_.jpg",
+      "offer": "10",
+      "description": "Jwalin Women’s Cotton Stripe Printed Top",
+      "id": 97
+    },
+    {
+      "category": "kids",
+      "subcategory": "Boy",
+      "title": "Shirt and Bow ",
+      "price": "2000",
+      "brand": "Adi",
+      "offer": "10",
+      "description": "GET MORE Baby Boys and Baby Girls Dungaree Set with Shirt and Bow Tie",
+      "image": "https://m.media-amazon.com/images/I/41MGvSrk0LL.jpg",
+      "id": 98
+    },
+    {
+      "category": "kids",
+      "subcategory": "Dhoti",
+      "title": "Traditional Shirt",
+      "price": "1400",
+      "brand": "RamRaj",
+      "image": "https://m.media-amazon.com/images/I/61LO0MEsLnL._UL1500_.jpg",
+      "offer": "20",
+      "description": "Traditional Shirt + Cotton Dhoti 2 In 1 Set for your prince",
+      "id": 99
+    },
+    {
+      "category": "kids",
+      "subcategory": "Dhoti",
+      "title": "Cotton Dhoti ",
+      "price": "2000",
+      "brand": "RamRaj",
+      "offer": "25",
+      "description": "Traditional Shirt + Cotton Dhoti 2 In 1 Set for your prince",
+      "image": "https://m.media-amazon.com/images/I/61mj9QoNFIL._UL1500_.jpg",
+      "id": 100
+    },
+    {
+      "category": "kids",
+      "subcategory": "Dhoti",
+      "title": "Ethnic Shirt",
+      "price": "1500",
+      "brand": "Ram",
+      "image": "https://m.media-amazon.com/images/I/91mPY5xkbTL._UL1500_.jpg",
+      "offer": "30",
+      "description": "JBN Creation Boys Cotton Silk Ethnic Shirt For Kids (Color: Black)",
+      "id": 101
+    },
+    {
+      "category": "kids",
+      "subcategory": "Dhoti",
+      "title": "Dhoti Pant",
+      "price": "3400",
+      "brand": "Kamraj",
+      "image": "https://m.media-amazon.com/images/I/61yPZgIUOsL._UL1500_.jpg",
+      "offer": "10",
+      "description": "Sethukrishna Boys Self Design Kurta and Dhoti Pant Set",
+      "id": 102
+    },
+    {
+      "category": "kids",
+      "subcategory": "Dhoti",
+      "title": "Dhoti pant",
+      "price": "3900",
+      "brand": "Kamraj",
+      "image": "https://m.media-amazon.com/images/I/61vEK3YUwzL._UY879_.jpg",
+      "offer": "10",
+      "description": "CLOTHIERS Traditional Kurtha Pancha with Angavasthram for 3 Year Boys",
+      "id": 103
+    },
+    {
+      "category": "kids",
+      "subcategory": "Gown",
+      "title": "Lite Gown",
+      "price": "360",
+      "brand": "Adi",
+      "image": "https://m.media-amazon.com/images/I/61PB9wkovpL._UL1440_.jpg",
+      "offer": "10",
+      "description": "A.T.U.N. (ALL THINGS UBER NICE) Girls Dress",
+      "id": 104
+    },
+    {
+      "category": "kids",
+      "subcategory": "Gown",
+      "title": "Casual Gown",
+      "price": "2400",
+      "brand": "Lee",
+      "image": "https://m.media-amazon.com/images/I/61ARJvBy06L._UL1440_.jpg",
+      "offer": "20",
+      "description": "A.T.U.N. (ALL THINGS UBER NICE) Girl's Polyester Skater Knee-Long Fit & Flare Casual Dress (GDRS NAT NPD_Blue_8-9 Y)",
+      "id": 105
+    },
+    {
+      "category": "kids",
+      "subcategory": "Gown",
+      "title": " Casual Dress",
+      "price": "590",
+      "brand": "ADI",
+      "offer": "10",
+      "description": "A.T.U.N Girl's Cotton Shirt Knee-Length Casual Dress",
+      "image": "https://m.media-amazon.com/images/I/6158qYQKr6L._UL1440_.jpg",
+      "id": 106
+    },
+    {
+      "category": "kids",
+      "subcategory": "Gown",
+      "title": "Cotton Gown",
+      "price": "560",
+      "brand": "Lee",
+      "image": "https://m.media-amazon.com/images/I/71TxgtNbsjL._UY879_.jpg",
+      "offer": "0",
+      "description": "A.T.U.N Girl's Cotton Shirt Knee-Length Casual Dress",
+      "id": 107
+    },
+    {
+      "category": "women",
+      "subcategory": "coat",
+      "title": "Coat Suit",
+      "price": "4500",
+      "brand": "Ethnic kids",
+      "image": "https://m.media-amazon.com/images/I/51RuEg7mzNL._UX679_.jpg",
+      "offer": "10",
+      "description": "S. G. KRETION Ethnic Wear Kids Party/Casual Wear Clothing Set : 3 Piece Suit Set with Shirt, Pant, Blended Waistcoat Boys(WCDC-4)",
+      "id": 108
+    },
+    {
+      "category": "kids",
+      "subcategory": "coat",
+      "title": "Boys Clothing Dress",
+      "price": "3040",
+      "brand": "RR",
+      "image": "https://m.media-amazon.com/images/I/51zi2JHDBuL._UL1500_.jpg",
+      "offer": "10",
+      "description": "Zolario 3 Piece Boys Clothing Dress for Kids Boys, Coat, Pant and Shirt Set, Ideal ...\n 329",
+      "id": 109
+    },
+    {
+      "category": "kids",
+      "subcategory": "coat",
+      "title": "Black Coat Suit",
+      "price": "3400",
+      "brand": "Adi",
+      "image": "https://m.media-amazon.com/images/I/71op3OtLg9L._UL1500_.jpg",
+      "offer": "10",
+      "description": "FOURFOLDS 5 Piece Black Coat Suit with Shirt Pant Blazer Waistcoat & tie for Kids & Boys 9",
+      "id": 110
+    },
+    {
+      "category": "kids",
+      "subcategory": "coat",
+      "title": "Regular Fit",
+      "price": "3400",
+      "brand": "Adi",
+      "image": "https://m.media-amazon.com/images/I/71Aa6qew0OL._UL1500_.jpg",
+      "offer": "34",
+      "description": "Boy's Regular Fit 4-piece Suit",
+      "id": 111
+    },
+    {
+      "category": "women",
+      "subcategory": "pattupavadai",
+      "title": " Ethnic Wear ",
+      "price": "2300",
+      "brand": "Kamraj",
+      "image": "https://m.media-amazon.com/images/I/717YZui0oQL._UL1500_.jpg",
+      "offer": "10",
+      "description": "Fashion Dream Girl's Ethnic Wear Jacquard Silk Embroidered Western Style Full Stitched Lehenga Choli Set (Readymade)",
+      "id": 112
+    },
+    {
+      "category": "women",
+      "subcategory": "WomenSweater",
+      "title": "Topster Sweater",
+      "price": "3400",
+      "brand": "Era",
+      "image": "https://m.media-amazon.com/images/I/61ZaE3YFTyL._UL1300_.jpg",
+      "offer": "10",
+      "description": "Topster Women's Fleece Hooded Sweatshirt",
+      "id": 113
+    }
+  ],
+  "post1": [
+    {
+      "id": 0,
+      "category": "men",
+      "title": "men jeans",
+      "price": 4000,
+      "brand": "killer",
+      "image": "https://m.media-amazon.com/images/I/71KpegP1GBL._UL1500_.jpg",
+      "offer": 45
+    },
+    {
+      "id": 1,
+      "category": "men",
+      "title": "T-shirt",
+      "price": 4500,
+      "brand": "Highloader",
+      "image": "https://m.media-amazon.com/images/I/618O-I6+k7L._UL1440_.jpg",
+      "offer": 34
+    },
+    {
+      "id": 2,
+      "category": "men",
+      "title": "men tapered fit",
+      "price": 4500,
+      "brand": "Highloader",
+      "image": "https://m.media-amazon.com/images/I/511psigfYXS._UL1440_.jpg",
+      "offer": 56
+    },
+    {
+      "id": 3,
+      "category": "women",
+      "title": "saree",
+      "price": 5500,
+      "brand": "Highloader",
+      "image": "https://m.media-amazon.com/images/I/41DLRcptU9L.jpg",
+      "offer": 89
+    },
+    {
+      "id": 4,
+      "category": "women",
+      "title": "kurtas",
+      "price": 6000,
+      "brand": "Lee",
+      "image": "https://m.media-amazon.com/images/I/41-moOH0mjL.jpg",
+      "offer": 34
+    },
+    {
+      "id": 5,
+      "category": "women",
+      "title": "Dress material",
+      "price": 7900,
+      "brand": "killer",
+      "image": "https://m.media-amazon.com/images/I/41-tkTNy4VL.jpg",
+      "offer": 56
+    },
+    {
+      "id": 6,
+      "category": "kids",
+      "title": "kids shirt",
+      "price": 700,
+      "brand": "killer",
+      "image": "https://m.media-amazon.com/images/I/61DYV96em5L._UL1440_.jpg",
+      "offer": 65
+    },
+    {
+      "id": 7,
+      "category": "kids",
+      "title": "Kids Dress",
+      "price": 400,
+      "brand": "Lee",
+      "image": "https://m.media-amazon.com/images/I/6158qYQKr6L._UL1440_.jpg",
+      "offer": 23
+    },
+    {
+      "id": 8,
+      "category": "kids",
+      "title": "kids dovsor",
+      "price": 300,
+      "brand": "Adi",
+      "image": "https://m.media-amazon.com/images/I/715mhVosD6S._UL1500_.jpg",
+      "offer": 22
+    }
+  ],
+  "post2": [
+    {
+      "id": 0,
+      "category": "men",
+      "title": "men jeans",
+      "price": 4000,
+      "brand": "killer",
+      "image": "https://m.media-amazon.com/images/I/61rF+ws6GsL._UL1500_.jpg",
+      "offer": 45
+    },
+    {
+      "id": 1,
+      "category": "men",
+      "title": "T-shirt",
+      "price": 5500,
+      "brand": "Highloader",
+      "image": "https://m.media-amazon.com/images/I/71hdywPI0hL._UL1500_.jpg",
+      "offer": 34
+    },
+    {
+      "id": 2,
+      "category": "men",
+      "title": "men tapered fit",
+      "price": 400,
+      "brand": "Highloader",
+      "image": "https://m.media-amazon.com/images/I/61JvrrBB49L._UY741_.jpg",
+      "offer": 56
+    },
+    {
+      "id": 3,
+      "category": "men",
+      "title": "men tapered",
+      "price": 4500,
+      "brand": "Highloader",
+      "image": "https://m.media-amazon.com/images/I/61a8HbP41jL._SY741._SX._UX._SY._UY_.jpg",
+      "offer": 56
+    },
+    {
+      "id": 4,
+      "category": "men",
+      "title": "poomers",
+      "price": 4500,
+      "brand": "Highloader",
+      "image": "https://m.media-amazon.com/images/I/41LUdtrJ+3L.jpg",
+      "offer": 34
+    },
+    {
+      "id": 5,
+      "category": "men",
+      "title": "dollors",
+      "price": 400,
+      "brand": "killer",
+      "image": "https://m.media-amazon.com/images/I/61J2jX1irfL._UY741_.jpg",
+      "offer": 23
+    },
+    {
+      "id": 6,
+      "category": "men",
+      "title": "sens",
+      "price": 230,
+      "brand": "killer",
+      "image": "https://m.media-amazon.com/images/I/61c9jaDkFdL._SY741._SX._UX._SY._UY_.jpg",
+      "offer": 10
+    },
+    {
+      "id": 7,
+      "category": "women",
+      "title": "Topwear",
+      "price": 2345,
+      "brand": "killer",
+      "image": "https://m.media-amazon.com/images/I/71hO3M4CWgL._UX679_.jpg",
+      "offer": 10
+    },
+    {
+      "id": 8,
+      "category": "women",
+      "title": "Dress",
+      "price": "jeans",
+      "brand": "Adi",
+      "image": "https://m.media-amazon.com/images/I/71h0sxK91GL._SX679._SX._UX._SY._UY_.jpg",
+      "offer": 10
+    },
+    {
+      "id": 9,
+      "category": "women",
+      "title": "jean",
+      "price": 2300,
+      "brand": "lee",
+      "image": "https://m.media-amazon.com/images/I/515rXhyvbOL._UX569_.jpg",
+      "offer": 50
+    },
+    {
+      "id": 10,
+      "category": "women",
+      "title": "shorts",
+      "price": 560,
+      "brand": "sky",
+      "image": "https://m.media-amazon.com/images/I/51NQ1RTIMOL._SX569._SX._UX._SY._UY_.jpg",
+      "offer": 70
+    },
+    {
+      "id": 11,
+      "category": "women",
+      "title": "sarees",
+      "price": 4567,
+      "brand": "Lee",
+      "image": "https://m.media-amazon.com/images/I/61z3u-WQXKL._UX679_.jpg",
+      "offer": 34
+    },
+    {
+      "id": 12,
+      "category": "women",
+      "title": "kutasv & Kurtis",
+      "price": 5478,
+      "brand": "Sky",
+      "image": "https://m.media-amazon.com/images/I/611vX4fZ1sL._UX679_.jpg",
+      "offer": 43
+    },
+    {
+      "id": 13,
+      "category": "women",
+      "title": "Duppttus",
+      "price": 5900,
+      "brand": "blue sky",
+      "image": "https://m.media-amazon.com/images/I/715iAoVi+7L._UY741_.jpg",
+      "offer": 10
+    },
+    {
+      "id": 14,
+      "category": "kids",
+      "title": "T-shirt",
+      "price": 340,
+      "brand": "killer",
+      "image": "https://m.media-amazon.com/images/I/81fXb6CERRL._UL1500_.jpg",
+      "offer": 70
+    },
+    {
+      "id": 15,
+      "category": "kids",
+      "title": "Ethnic wear",
+      "price": 765,
+      "brand": "Adi",
+      "image": "https://m.media-amazon.com/images/I/71PsIeUqkyL._UL1500_.jpg",
+      "offer": 76
+    },
+    {
+      "id": 16,
+      "category": "kids",
+      "title": "inner wear",
+      "price": 250,
+      "brand": "lee",
+      "image": "https://m.media-amazon.com/images/I/4118G6XH+KL.jpg",
+      "offer": 10
+    },
+    {
+      "id": 17,
+      "category": "kids",
+      "title": "inner wear",
+      "price": 560,
+      "brand": "blue sky",
+      "image": "https://m.media-amazon.com/images/I/61YEOVMdyEL._UL1496_.jpg",
+      "offer": 34
+    },
+    {
+      "id": 18,
+      "category": "kids",
+      "title": "shots",
+      "price": 540,
+      "brand": "blue sky",
+      "image": "https://m.media-amazon.com/images/I/81AOjNo1AyL._UL1500_.jpg",
+      "offer": 34
+    },
+    {
+      "id": 19,
+      "category": "kids",
+      "title": "Dress & Shirts",
+      "price": 890,
+      "brand": "sky",
+      "image": "https://m.media-amazon.com/images/I/81rEeKc9K2L._UL1500_.jpg",
+      "offer": 24
+    },
+    {
+      "id": 20,
+      "category": "kids",
+      "title": "Dress & Grown",
+      "price": 590,
+      "brand": "lee",
+      "image": "https://m.media-amazon.com/images/I/51hukFpZDBL.jpg",
+      "offer": 34
+    }
+  ],
+  "subcategory": [
+    {
+      "category": "men",
+      "subcategory": "shirt",
+      "image": "https://m.media-amazon.com/images/I/61qcnAHZP3L._UL1500_.jpg",
+      "id": 1
+    },
+    {
+      "category": "men",
+      "subcategory": "pant",
+      "image": "https://m.media-amazon.com/images/I/51bdLCluwrL._UL1500_.jpg",
+      "id": 2
+    },
+    {
+      "category": "men",
+      "subcategory": "Tshirt",
+      "image": "https://m.media-amazon.com/images/I/615LuCaivAL._UL1100_.jpg",
+      "id": 3
+    },
+    {
+      "category": "men",
+      "subcategory": "jean",
+      "image": "https://m.media-amazon.com/images/I/81G4lLVJlDL._UL1500_.jpg",
+      "id": 4
+    },
+    {
+      "category": "men",
+      "subcategory": "jacket",
+      "image": "https://m.media-amazon.com/images/I/61eMJalktNL._UL1500_.jpg",
+      "id": 5
+    },
+    {
+      "category": "men",
+      "subcategory": "sweatshirt",
+      "image": "https://m.media-amazon.com/images/I/61RM8fQdJ6L._UL1500_.jpg",
+      "id": 6
+    },
+    {
+      "category": "men",
+      "subcategory": "track",
+      "image": "https://m.media-amazon.com/images/I/61HwCsXHbzL._UL1500_.jpg",
+      "id": 7
+    },
+    {
+      "category": "men",
+      "subcategory": "vest",
+      "image": "https://m.media-amazon.com/images/I/61yXaH95lHL._UL1400_.jpg",
+      "id": 8
+    },
+    {
+      "category": "men",
+      "subcategory": "Udi",
+      "image": "https://m.media-amazon.com/images/I/612lZSEvDoL._UL1500_.jpg",
+      "id": 9
+    },
+    {
+      "category": "women",
+      "subcategory": "kurta",
+      "image": "https://m.media-amazon.com/images/I/61V0XWaN2cL._UL1280_.jpg",
+      "id": 10
+    },
+    {
+      "category": "women",
+      "subcategory": "saree",
+      "image": "https://m.media-amazon.com/images/I/614LdTOx+FS._UY879_.jpg",
+      "id": 11
+    },
+    {
+      "category": "women",
+      "subcategory": "WomenJean",
+      "image": "https://m.media-amazon.com/images/I/71XNJ5pXWVL._UL1500_.jpg",
+      "id": 12
+    },
+    {
+      "category": "women",
+      "subcategory": "WomenSweater",
+      "image": "https://m.media-amazon.com/images/I/71Rax+PIjxL._UL1440_.jpg",
+      "id": 13
+    },
+    {
+      "category": "women",
+      "subcategory": "Tops",
+      "image": "https://m.media-amazon.com/images/I/71dLzkIpZsL._UL1500_.jpg",
+      "id": 14
+    },
+    {
+      "category": "kids",
+      "subcategory": "Dhoti",
+      "image": "https://m.media-amazon.com/images/I/61LO0MEsLnL._UL1500_.jpg",
+      "id": 15
+    },
+    {
+      "category": "kids",
+      "subcategory": "Gown",
+      "image": "https://m.media-amazon.com/images/I/61PB9wkovpL._UL1440_.jpg",
+      "id": 16
+    },
+    {
+      "category": "kids",
+      "subcategory": "coat",
+      "image": "https://m.media-amazon.com/images/I/611PPpdQdLL._UL1500_.jpg",
+      "id": 17
+    },
+    {
+      "category": "kids",
+      "subcategory": "pattupavadai",
+      "image": "https://m.media-amazon.com/images/I/61I5WDPSgzL._UL1264_.jpg",
+      "id": 18
+    },
+    {
+      "category": "kids",
+      "subcategory": "Kurta",
+      "image": "https://m.media-amazon.com/images/I/71gOLHWXyFL._UL1500_.jpg",
+      "id": 19
+    }
+  ],
+  "addtobag": [
+    {
+      "image": "https://m.media-amazon.com/images/I/51wpu-iyHQL._UL1000_.jpg",
+      "productid": 5,
+      "title": "dollors",
+      "price": 400,
+      "offer": 23,
+      "quantity": 1,
+      "value": 1,
+      "discountprice": 308,
+      "email": "sabari@gmail.com",
+      "order": "processing",
+      "id": 3
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61KNBTw4K8S._UX679_.jpg",
+      "productid": 6,
+      "title": "sens",
+      "price": 230,
+      "offer": 10,
+      "quantity": 1,
+      "value": 1,
+      "discountprice": 207,
+      "email": "sabari@gmail.com",
+      "order": "processing",
+      "id": 4
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/51iAjvVnXVL._UL1100_.jpg",
+      "productid": 22,
+      "title": "Casual Shirt",
+      "price": "5500",
+      "offer": "30",
+      "quantity": 1,
+      "value": 1,
+      "discountprice": 3850,
+      "email": "sabari@gmail.com",
+      "order": "processing",
+      "id": 5
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61DGAlvxRLL._UL1440_.jpg",
+      "productid": 23,
+      "title": "Casual Shirt",
+      "price": "3000",
+      "offer": "34",
+      "quantity": 1,
+      "value": 1,
+      "discountprice": 1980,
+      "email": "sabari@gmail.com",
+      "order": "processing",
+      "id": 6
+    },
+    {
+      "title": "dollors",
+      "price": 400,
+      "offer": 23,
+      "quantity": 1,
+      "value": 1,
+      "image": "https://m.media-amazon.com/images/I/51wpu-iyHQL._UL1000_.jpg",
+      "discountprice": 308,
+      "email": "yaal@gmail.com",
+      "productid": 5,
+      "order": "proceed",
+      "id": 7
+    },
+    {
+      "title": "dollors",
+      "price": 400,
+      "offer": 23,
+      "quantity": 2,
+      "value": 800,
+      "image": "https://m.media-amazon.com/images/I/51wpu-iyHQL._UL1000_.jpg",
+      "discountprice": 616,
+      "email": "jayanthi@gmail.com",
+      "productid": 5,
+      "order": "proceed",
+      "id": 8
+    },
+    {
+      "title": "dollors",
+      "price": 400,
+      "offer": 23,
+      "quantity": 1,
+      "value": 1,
+      "image": "https://m.media-amazon.com/images/I/51wpu-iyHQL._UL1000_.jpg",
+      "discountprice": 308,
+      "email": "jayanthi@gmail.com",
+      "productid": 5,
+      "order": "proceed",
+      "id": 9
+    },
+    {
+      "title": "men tapered fit",
+      "price": "400",
+      "offer": 56,
+      "quantity": 1,
+      "value": 1,
+      "image": "https://m.media-amazon.com/images/I/61FR5laCRtL._UL1500_.jpg",
+      "discountprice": 176,
+      "email": "yaal@gmail.com",
+      "productid": 2,
+      "order": "proceed",
+      "id": 10
+    },
+    {
+      "title": "dollors",
+      "price": 400,
+      "offer": 23,
+      "quantity": 1,
+      "value": 1,
+      "image": "https://m.media-amazon.com/images/I/51wpu-iyHQL._UL1000_.jpg",
+      "discountprice": 308,
+      "email": "yaal@gmail.com",
+      "productid": 5,
+      "order": "proceed",
+      "id": 11
+    },
+    {
+      "title": "sens",
+      "price": 230,
+      "offer": 10,
+      "quantity": 1,
+      "value": 1,
+      "image": "https://m.media-amazon.com/images/I/61KNBTw4K8S._UX679_.jpg",
+      "discountprice": 207,
+      "email": "yaal@gmail.com",
+      "productid": 6,
+      "order": "proceed",
+      "id": 12
+    },
+    {
+      "title": "Casual Shirt",
+      "price": "5500",
+      "offer": "30",
+      "quantity": 1,
+      "value": 1,
+      "image": "https://m.media-amazon.com/images/I/51iAjvVnXVL._UL1100_.jpg",
+      "discountprice": 3850,
+      "email": "yaal@gmail.com",
+      "productid": 22,
+      "order": "proceed",
+      "id": 13
+    }
+  ],
+  "favourite": [
+    {
+      "image": "https://m.media-amazon.com/images/I/61PB9wkovpL._UL1440_.jpg",
+      "size": "",
+      "productid": 104,
+      "title": "Lite Gown",
+      "price": "360",
+      "offer": "10",
+      "quantity": 1,
+      "value": 1,
+      "discountprice": 324,
+      "email": "srini@gmail.com",
+      "order": "processing",
+      "id": 1
+    }
+  ],
+  "order": [
+    {
+      "email": "srini@gmail.com",
+      "Address": "3/26 viswanatha puram kamaraja salai\n3/26 viswanatha puram kamaraja salai",
+      "phone": "6383003080",
+      "place": "mayiladuthurai",
+      "pincode": "609001",
+      "state": "Tamil Nādu",
+      "name": "sri i",
+      "productid": 5,
+      "title": "dollors",
+      "price": 400,
+      "offer": 23,
+      "quantity": 1,
+      "value": 1,
+      "discountprice": 308,
+      "image": "https://m.media-amazon.com/images/I/51wpu-iyHQL._UL1000_.jpg",
+      "orderstatus1": 1,
+      "orderdate": "2023-04-10T04:06:15.176Z",
+      "id": 1
+    }
+  ]
+}

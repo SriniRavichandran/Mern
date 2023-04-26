@@ -1,0 +1,55 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+    
+}
+
+
+h1{
+    padding-top: 10%;
+}
+.btn{
+    width: 280px;
+    height: 50px;
+    margin-top: 10%;
+    background-color: rgba(231, 36, 29, 0.925);
+    border-radius: 0.5em;
+     font-weight: bold;
+  
+}
+.box{
+    background-color:bisque;
+    width: 30em;
+    height:35em;
+    position: relative;
+    border-radius: 1em;
+    box-shadow: 0 0.188em 1.550em red;
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+    margin: auto;
+    margin-top:180px;
+    
+}
+
+
+label{
+padding-top: 10px;
+
+}
+
+
+input{
+    border-block-color: red;
+   
+    border-radius: .3em;
+    height: 40px;
+    width: 280px;
+}
+
+
+p{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}

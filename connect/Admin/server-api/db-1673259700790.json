@@ -1,0 +1,27 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "srinivasan",
+      "media" :[
+        {
+          "age":"1",
+          "Number":"2"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "jana"
+    }
+    
+  
+    
+  ]
+ 
+
+
+
+
+
+}

@@ -1,0 +1,34 @@
+.classnavbar{
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    display: flex;
+    padding-left: 25px;
+    align-items: center;
+    position:relative;
+}
+.classlink{
+   
+    display: flex;
+    align-items: center; 
+   
+}
+.classlink a{
+    text-decoration: none;
+    color: white;
+    font-size: 23px;
+    font-weight: 500;
+}
+.a{
+    padding-left:0px;
+}
+.b , .d, .e, .f, .g{ 
+    padding-left:200px;
+}
+.c{
+    padding-left:500px;
+}
+
+
+       
+    
