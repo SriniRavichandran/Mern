@@ -1,24 +1,20 @@
-const auth=require("../middleware/authMiddleware.js")
-module.exports = app => {
-    const favourite = require("../controllers/favourite.controller");
-  
-    var router = require("express").Router();
+const auth = require("../middleware/authMiddleware.js");
+module.exports = (app) => {
+  const favourite = require("../controllers/favourite.controller");
 
-  
-    router.post("/favourite", favourite.create);
-  
-    router.get("/favourite",auth,favourite.findAll);
- 
-    router.get("/favourite/:id",auth, favourite.findOne);
+  var router = require("express").Router();
 
-    router.put("/favourite/:id",auth, favourite.update);
+  router.post("/favourite", favourite.create);
 
-    router.delete("/favourite/:id",auth, favourite.delete);
+  router.get("/favourite", auth, favourite.findAll);
 
-    router.delete("/favourite",auth,favourite.deleteAll);
+  router.get("/favourite/:id", auth, favourite.findOne);
 
-    router.get("/favourite-item/:email", favourite.particularData);
-  
-    app.use('/api', router);
+  router.put("/favourite/:id", auth, favourite.update);
 
-  };
+  router.delete("/favourite/:id", auth, favourite.delete);
+
+  router.get("/favourite-item/:email", favourite.particularData);
+
+  app.use("/api", router);
+};

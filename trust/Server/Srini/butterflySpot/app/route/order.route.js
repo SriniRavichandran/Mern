@@ -1,25 +1,21 @@
-const auth=require("../middleware/authMiddleware")
+const auth = require("../middleware/authMiddleware");
+const ErrorHandle = require("../middleware/errorhandler.js");
 
-module.exports = app => {
-    const orderdata = require("../controllers/order.controller");
-  
-    var router = require("express").Router();
+module.exports = (app) => {
+  const orderdata = require("../controllers/order.controller");
 
-  
-    router.post("/order",auth, orderdata.create);
-  
-    router.get("/order",auth, orderdata.findAll);
- 
-    router.get("/order/:id", auth,orderdata.findOne);
+  var router = require("express").Router();
 
-    router.put("/order/:id", auth,orderdata.update);
+  router.post("/order", auth, orderdata.create);
 
-    router.delete("/order/:id",auth, orderdata.delete);
+  router.get("/order", auth, orderdata.findAll);
 
-    router.delete("/order",auth, orderdata.deleteAll);
+  router.get("/order/:id", auth, orderdata.findOne);
 
+  router.put("/order/:id", auth, orderdata.update);
 
-  
-    app.use('/api', router);
+  router.delete("/order/:id", auth, orderdata.delete);
+  app.use(ErrorHandle);
 
-  };
+  app.use("/api", router);
+};

@@ -1,27 +1,21 @@
-const auth =require('../middleware/authMiddleware.js');
+const auth = require("../middleware/authMiddleware.js");
 
-module.exports = app => {
-    const signup = require("../controllers/signup.controller");
-   
-    var router = require("express").Router();
+module.exports = (app) => {
+  const signup = require("../controllers/signup.controller");
 
-  
-    router.post("/user", signup.create);
-  
-    router.get("/user", auth,signup.findAll);
- 
-    router.get("/user/:id", signup.findOne);
+  var router = require("express").Router();
 
-    router.put("/user/:id", signup.update);
+  router.post("/user", signup.create);
 
-    router.delete("/user/:id", signup.delete);
+  router.get("/user", auth, signup.findAll);
 
-    router.delete("/user", signup.deleteAll);
+  router.get("/user/:id", signup.findOne);
 
-    router.post("/user/login",signup.Login);
+  router.put("/user/:id", signup.update);
 
-     router.get("/me",signup.getMe);
-  
-    app.use('/api', router);
+  router.delete("/user/:id", signup.delete);
 
-  };
+  router.post("/user/login", signup.Login);
+
+  app.use("/api", router);
+};

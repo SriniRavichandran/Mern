@@ -1,27 +1,19 @@
+module.exports = (app) => {
+  const productdata = require("../controllers/products.controller");
 
+  var router = require("express").Router();
 
-module.exports = app => {
-    const productdata = require("../controllers/products.controller");
-  
-    var router = require("express").Router();
+  router.post("/product", productdata.create);
 
-  
-    router.post("/product", productdata.create);
-  
-    router.get("/product", productdata.findAll);
+  router.get("/product", productdata.findAll);
 
-    router.get("/products/:subcategory", productdata.particularData);
- 
-    router.get("/product/:id", productdata.findOne);
+  router.get("/products/:subcategory", productdata.particularData);
 
-    router.put("/product/:id", productdata.update);
+  router.get("/product/:id", productdata.findOne);
 
-    router.delete("/product/:id", productdata.delete);
+  router.put("/product/:id", productdata.update);
 
-    router.delete("/product", productdata.deleteAll);
+  router.delete("/product/:id", productdata.delete);
 
-
-  
-    app.use('/api', router);
-
-  };
+  app.use("/api", router);
+};

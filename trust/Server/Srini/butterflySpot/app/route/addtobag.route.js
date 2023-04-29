@@ -1,24 +1,19 @@
-const auth=require("../middleware/authMiddleware.js")
-module.exports = app => {
-    const addtobag = require("../controllers/addtobag.controller");
-  
-    var router = require("express").Router();
+const auth = require("../middleware/authMiddleware.js");
 
-  
-    router.post("/cart", addtobag.create);
-  
-    router.get("/cart", auth,addtobag.findAll);
- 
-    router.get("/cart/:id",auth, addtobag.findOne);
+module.exports = (app) => {
+  const addtobag = require("../controllers/addtobag.controller");
 
-    router.put("/cart/:id",auth, addtobag.update);
+  var router = require("express").Router();
 
-    router.delete("/cart/:id",auth, addtobag.delete);
+  router.post("/cart", addtobag.create);
 
-    router.delete("/cart",auth, addtobag.deleteAll);
+  router.get("/cart", auth, addtobag.findAll);
 
+  router.get("/cart/:id", auth, addtobag.findOne);
 
-  
-    app.use('/api', router);
+  router.put("/cart/:id", auth, addtobag.update);
 
-  };
+  router.delete("/cart/:id", auth, addtobag.delete);
+
+  app.use("/api", router);
+};
